@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\TechnologieObiektowe\Vectors\Vectors\bin\Debug\Vectors.exe.config
+C:\Users\Asus\source\repos\TechnologieObiektowe\Vectors\Vectors\bin\Debug\Vectors.exe
+C:\Users\Asus\source\repos\TechnologieObiektowe\Vectors\Vectors\bin\Debug\Vectors.pdb
+C:\Users\Asus\source\repos\TechnologieObiektowe\Vectors\Vectors\obj\Debug\Vectors.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\TechnologieObiektowe\Vectors\Vectors\obj\Debug\Vectors.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\TechnologieObiektowe\Vectors\Vectors\obj\Debug\Vectors.exe
+C:\Users\Asus\source\repos\TechnologieObiektowe\Vectors\Vectors\obj\Debug\Vectors.pdb
