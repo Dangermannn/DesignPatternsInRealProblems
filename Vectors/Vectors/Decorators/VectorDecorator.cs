@@ -11,6 +11,7 @@ namespace Vectors.Decorators
     {
         protected IVector vector;
 
+        public VectorDecorator() { }
         public VectorDecorator(IVector vec)
         {
             vector = vec;
@@ -32,7 +33,7 @@ namespace Vectors.Decorators
 
         public virtual double[] GetComponents()
         {
-            return vector.GetAngles();
+            return vector.GetComponents();
         }
     }
 }

@@ -44,12 +44,16 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Adapters\Vector2DAdapter.cs" />
+    <Compile Include="Adapters\Vector3DAdapter.cs" />
     <Compile Include="Decorators\VectorDecorator.cs" />
     <Compile Include="Interfaces\IVector.cs" />
+    <Compile Include="Interfaces\IVectorConverter.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Vectors\Vector2D.cs" />
+    <Compile Include="Vectors\Vector2DPolarCoordinates.cs" />
     <Compile Include="Vectors\Vector3D.cs" />
+    <Compile Include="Vectors\Vector3dSphericalCoordinate.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
