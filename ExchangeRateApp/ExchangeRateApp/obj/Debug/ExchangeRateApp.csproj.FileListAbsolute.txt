@@ -1,0 +1,7 @@
+C:\Users\Asus\source\repos\TechnologieObiektowe\ExchangeRateApp\ExchangeRateApp\bin\Debug\ExchangeRateApp.exe.config
+C:\Users\Asus\source\repos\TechnologieObiektowe\ExchangeRateApp\ExchangeRateApp\bin\Debug\ExchangeRateApp.exe
+C:\Users\Asus\source\repos\TechnologieObiektowe\ExchangeRateApp\ExchangeRateApp\bin\Debug\ExchangeRateApp.pdb
+C:\Users\Asus\source\repos\TechnologieObiektowe\ExchangeRateApp\ExchangeRateApp\obj\Debug\ExchangeRateApp.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\TechnologieObiektowe\ExchangeRateApp\ExchangeRateApp\obj\Debug\ExchangeRateApp.exe
+C:\Users\Asus\source\repos\TechnologieObiektowe\ExchangeRateApp\ExchangeRateApp\obj\Debug\ExchangeRateApp.pdb
+C:\Users\Asus\source\repos\TechnologieObiektowe\ExchangeRateApp\ExchangeRateApp\obj\Debug\ExchangeRateApp.csproj.CoreCompileInputs.cache

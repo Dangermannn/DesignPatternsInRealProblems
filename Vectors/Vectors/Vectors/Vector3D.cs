@@ -8,7 +8,7 @@ using Vectors.Interfaces;
 
 namespace Vectors.Vectors
 {
-    public class Vector3D : VectorDecorator
+    public class Vector3D : VectorDecorator, IVector3D
     {
         private double z;
 
@@ -50,5 +50,11 @@ namespace Vectors.Vectors
             return new double[] { baseVec2d[0], baseVec2d[1], z };
         }
 
+        public double[] VectorProduct(IVector vec3d)
+        {
+            var b = vec3d.GetComponents();
+            var a = base.GetComponents();
+            return new double[] { a[1] * b[2] - z * b[1], z * b[0] - a[0] * b[2], a[0] * b[1] - a[1] * b[0] };
+        }
     }
 }

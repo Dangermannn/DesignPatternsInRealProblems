@@ -47,6 +47,7 @@
     <Compile Include="Adapters\Vector3DAdapter.cs" />
     <Compile Include="Decorators\VectorDecorator.cs" />
     <Compile Include="Interfaces\IVector.cs" />
+    <Compile Include="Interfaces\IVector3D.cs" />
     <Compile Include="Interfaces\IVectorConverter.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

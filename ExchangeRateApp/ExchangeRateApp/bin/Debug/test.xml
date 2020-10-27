@@ -1,0 +1,16 @@
+<tabela_kursow typ="A" uid="20a196">
+<numer_tabeli>196/A/NBP/2020</numer_tabeli>
+<data_publikacji>2020-10-07</data_publikacji>
+<pozycja>
+<nazwa_waluty>bat (Tajlandia)</nazwa_waluty>
+<przelicznik>1</przelicznik>
+<kod_waluty>THB</kod_waluty>
+<kurs_sredni>0,1221</kurs_sredni>
+</pozycja>
+<pozycja>
+<nazwa_waluty>dolar amerykański</nazwa_waluty>
+<przelicznik>1</przelicznik>
+<kod_waluty>USD</kod_waluty>
+<kurs_sredni>3,8126</kurs_sredni>
+</pozycja>
+</tabela_kursow>

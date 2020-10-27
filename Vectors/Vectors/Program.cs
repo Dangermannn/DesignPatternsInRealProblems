@@ -44,6 +44,12 @@ namespace Vectors
             Console.WriteLine($"[{components_3d[0]}, {components_3d[1]}, {components_3d[2]}]");
 
 
+            // Vector product
+            IVector3D vec3d = new Vector3D(1, 1, 1);
+            Console.WriteLine("WECTOR PRODUCT");
+            var temp = vec3d.VectorProduct(new Vector3D(1, 1, 1));
+            Console.WriteLine($"[{temp[0]}, {temp[1]}, {temp[2]}]");
+
             Console.ReadKey();
         }
     }

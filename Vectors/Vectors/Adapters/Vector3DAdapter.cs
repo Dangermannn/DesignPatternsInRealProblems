@@ -16,7 +16,7 @@ namespace Vectors.Adapters
             _vector3DSphericalCoordinates = v3;
         }
 
-        public double[] ConvertCoordinatesToCartesionArray()
+        private double[] ConvertCoordinatesToCartesianArray()
         {
             return new double[] {
                 _vector3DSphericalCoordinates.R * Math.Cos(_vector3DSphericalCoordinates.Theta) * Math.Sin(_vector3DSphericalCoordinates.Phi),
@@ -27,7 +27,7 @@ namespace Vectors.Adapters
 
         public IVector GetVectorInCartesian()
         {
-            var coordinatesInCartesian = ConvertCoordinatesToCartesionArray();
+            var coordinatesInCartesian = ConvertCoordinatesToCartesianArray();
             return new Vector3D(coordinatesInCartesian[0], coordinatesInCartesian[1], coordinatesInCartesian[2]);
         }
     }

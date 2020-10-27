@@ -8,7 +8,6 @@ namespace Vectors.Interfaces
 {
     public interface IVectorConverter
     {
-        double[] ConvertCoordinatesToCartesionArray();
         IVector GetVectorInCartesian();
     }
 }

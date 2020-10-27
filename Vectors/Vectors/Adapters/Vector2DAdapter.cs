@@ -16,7 +16,7 @@ namespace Vectors.Adapters
             _vector2DPolarCoordinates = v2;
         }
 
-        public double[] ConvertCoordinatesToCartesionArray()
+        private double[] ConvertCoordinatesToCartesianArray()
         {
             return new double[] { _vector2DPolarCoordinates.R * Math.Cos(_vector2DPolarCoordinates.Phi),
                 _vector2DPolarCoordinates.R * Math.Sin(_vector2DPolarCoordinates.Phi)};
@@ -24,7 +24,7 @@ namespace Vectors.Adapters
 
         public IVector GetVectorInCartesian()
         {
-            var cartesianCoordinates = ConvertCoordinatesToCartesionArray();
+            var cartesianCoordinates = ConvertCoordinatesToCartesianArray();
             return new Vector2D(cartesianCoordinates[0], cartesianCoordinates[1]);
         }
     }
