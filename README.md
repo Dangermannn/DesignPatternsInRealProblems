@@ -11,4 +11,6 @@
 
 #### Used: composite and proxy patterns
 
+### PopulationRegister
 
+#### Used: Flyweight and iterator patterns

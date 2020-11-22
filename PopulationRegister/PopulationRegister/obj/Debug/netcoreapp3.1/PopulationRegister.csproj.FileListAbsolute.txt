@@ -1,0 +1,13 @@
+C:\Users\Asus\source\repos\TechnologieObiektowe\copy2\PopulationRegister\PopulationRegister\obj\Debug\netcoreapp3.1\PopulationRegister.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\TechnologieObiektowe\copy2\PopulationRegister\PopulationRegister\obj\Debug\netcoreapp3.1\PopulationRegister.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\TechnologieObiektowe\copy2\PopulationRegister\PopulationRegister\obj\Debug\netcoreapp3.1\PopulationRegister.AssemblyInfo.cs
+C:\Users\Asus\source\repos\TechnologieObiektowe\copy2\PopulationRegister\PopulationRegister\obj\Debug\netcoreapp3.1\PopulationRegister.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\TechnologieObiektowe\copy2\PopulationRegister\PopulationRegister\bin\Debug\netcoreapp3.1\PopulationRegister.exe
+C:\Users\Asus\source\repos\TechnologieObiektowe\copy2\PopulationRegister\PopulationRegister\bin\Debug\netcoreapp3.1\PopulationRegister.deps.json
+C:\Users\Asus\source\repos\TechnologieObiektowe\copy2\PopulationRegister\PopulationRegister\bin\Debug\netcoreapp3.1\PopulationRegister.runtimeconfig.json
+C:\Users\Asus\source\repos\TechnologieObiektowe\copy2\PopulationRegister\PopulationRegister\bin\Debug\netcoreapp3.1\PopulationRegister.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\TechnologieObiektowe\copy2\PopulationRegister\PopulationRegister\bin\Debug\netcoreapp3.1\PopulationRegister.dll
+C:\Users\Asus\source\repos\TechnologieObiektowe\copy2\PopulationRegister\PopulationRegister\bin\Debug\netcoreapp3.1\PopulationRegister.pdb
+C:\Users\Asus\source\repos\TechnologieObiektowe\copy2\PopulationRegister\PopulationRegister\obj\Debug\netcoreapp3.1\PopulationRegister.dll
+C:\Users\Asus\source\repos\TechnologieObiektowe\copy2\PopulationRegister\PopulationRegister\obj\Debug\netcoreapp3.1\PopulationRegister.pdb
+C:\Users\Asus\source\repos\TechnologieObiektowe\copy2\PopulationRegister\PopulationRegister\obj\Debug\netcoreapp3.1\PopulationRegister.genruntimeconfig.cache
