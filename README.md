@@ -14,3 +14,7 @@
 ### PopulationRegister
 
 #### Used: Flyweight and iterator patterns
+
+### Chat
+
+### Used: Observator and chain responsibility patterns
