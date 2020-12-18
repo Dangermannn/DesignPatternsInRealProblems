@@ -17,4 +17,12 @@
 
 ### Chat
 
-### Used: Observator and chain responsibility patterns
+#### Used: Observator and chain responsibility patterns
+
+### AlarmSystem
+
+#### Used: Observator, state and strategy patterns
+
+### StrategyGameSimulation
+
+#### Used: Memento and template method patterns

@@ -1,0 +1,13 @@
+C:\Users\Asus\source\repos\TechnologieObiektowe\AlarmSystem\AlarmSystem\bin\Debug\netcoreapp3.1\AlarmSystem.exe
+C:\Users\Asus\source\repos\TechnologieObiektowe\AlarmSystem\AlarmSystem\bin\Debug\netcoreapp3.1\AlarmSystem.deps.json
+C:\Users\Asus\source\repos\TechnologieObiektowe\AlarmSystem\AlarmSystem\bin\Debug\netcoreapp3.1\AlarmSystem.runtimeconfig.json
+C:\Users\Asus\source\repos\TechnologieObiektowe\AlarmSystem\AlarmSystem\bin\Debug\netcoreapp3.1\AlarmSystem.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\TechnologieObiektowe\AlarmSystem\AlarmSystem\bin\Debug\netcoreapp3.1\AlarmSystem.dll
+C:\Users\Asus\source\repos\TechnologieObiektowe\AlarmSystem\AlarmSystem\bin\Debug\netcoreapp3.1\AlarmSystem.pdb
+C:\Users\Asus\source\repos\TechnologieObiektowe\AlarmSystem\AlarmSystem\obj\Debug\netcoreapp3.1\AlarmSystem.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\TechnologieObiektowe\AlarmSystem\AlarmSystem\obj\Debug\netcoreapp3.1\AlarmSystem.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\TechnologieObiektowe\AlarmSystem\AlarmSystem\obj\Debug\netcoreapp3.1\AlarmSystem.AssemblyInfo.cs
+C:\Users\Asus\source\repos\TechnologieObiektowe\AlarmSystem\AlarmSystem\obj\Debug\netcoreapp3.1\AlarmSystem.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\TechnologieObiektowe\AlarmSystem\AlarmSystem\obj\Debug\netcoreapp3.1\AlarmSystem.dll
+C:\Users\Asus\source\repos\TechnologieObiektowe\AlarmSystem\AlarmSystem\obj\Debug\netcoreapp3.1\AlarmSystem.pdb
+C:\Users\Asus\source\repos\TechnologieObiektowe\AlarmSystem\AlarmSystem\obj\Debug\netcoreapp3.1\AlarmSystem.genruntimeconfig.cache

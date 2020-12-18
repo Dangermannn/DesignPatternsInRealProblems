@@ -1,0 +1,17 @@
+C:\Users\Asus\source\repos\StrategyGameSimulation\StrategyGameSimulation\bin\Debug\netcoreapp3.1\StrategyGameSimulation.exe
+C:\Users\Asus\source\repos\StrategyGameSimulation\StrategyGameSimulation\bin\Debug\netcoreapp3.1\StrategyGameSimulation.deps.json
+C:\Users\Asus\source\repos\StrategyGameSimulation\StrategyGameSimulation\bin\Debug\netcoreapp3.1\StrategyGameSimulation.runtimeconfig.json
+C:\Users\Asus\source\repos\StrategyGameSimulation\StrategyGameSimulation\bin\Debug\netcoreapp3.1\StrategyGameSimulation.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\StrategyGameSimulation\StrategyGameSimulation\bin\Debug\netcoreapp3.1\StrategyGameSimulation.dll
+C:\Users\Asus\source\repos\StrategyGameSimulation\StrategyGameSimulation\bin\Debug\netcoreapp3.1\StrategyGameSimulation.pdb
+C:\Users\Asus\source\repos\StrategyGameSimulation\StrategyGameSimulation\obj\Debug\netcoreapp3.1\StrategyGameSimulation.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\StrategyGameSimulation\StrategyGameSimulation\obj\Debug\netcoreapp3.1\StrategyGameSimulation.Controls.Building.resources
+C:\Users\Asus\source\repos\StrategyGameSimulation\StrategyGameSimulation\obj\Debug\netcoreapp3.1\StrategyGameSimulation.Controls.BuildingAdder.resources
+C:\Users\Asus\source\repos\StrategyGameSimulation\StrategyGameSimulation\obj\Debug\netcoreapp3.1\StrategyGameSimulation.Form1.resources
+C:\Users\Asus\source\repos\StrategyGameSimulation\StrategyGameSimulation\obj\Debug\netcoreapp3.1\StrategyGameSimulation.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\StrategyGameSimulation\StrategyGameSimulation\obj\Debug\netcoreapp3.1\StrategyGameSimulation.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\StrategyGameSimulation\StrategyGameSimulation\obj\Debug\netcoreapp3.1\StrategyGameSimulation.AssemblyInfo.cs
+C:\Users\Asus\source\repos\StrategyGameSimulation\StrategyGameSimulation\obj\Debug\netcoreapp3.1\StrategyGameSimulation.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\StrategyGameSimulation\StrategyGameSimulation\obj\Debug\netcoreapp3.1\StrategyGameSimulation.dll
+C:\Users\Asus\source\repos\StrategyGameSimulation\StrategyGameSimulation\obj\Debug\netcoreapp3.1\StrategyGameSimulation.pdb
+C:\Users\Asus\source\repos\StrategyGameSimulation\StrategyGameSimulation\obj\Debug\netcoreapp3.1\StrategyGameSimulation.genruntimeconfig.cache
