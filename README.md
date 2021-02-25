@@ -1,4 +1,4 @@
-### Currency exchange using NBP table
+### ExchangeRateApp
 
 #### Used: 3-architecture layer pattern: data-access, business logic and presentation layers
 
@@ -6,7 +6,7 @@ Tool for currency exchange using NBP average course
 
 ---
 
-### Implemeting vector 2d/3d
+### Vectors
 
 #### Used: decorator and adapter patterns
 
@@ -14,7 +14,7 @@ App for calculating 2/3D vectors product and scalar products
 
 ---
 
-### File system
+### FileSystem
 
 #### Used: composite and proxy patterns
 
